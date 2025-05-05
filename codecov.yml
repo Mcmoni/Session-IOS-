@@ -1,0 +1,14 @@
+codecov:
+  branch: master # set Default branch
+
+# Paths to ignore for code coverage
+ignore:
+  - "SessionMessagingKitTests"
+  - "SessionTests"
+  - "SessionSnodeKitTests"
+  - "SessionUtilitiesKitTests"
+  - "*.+SwiftUI.swift"
+  - "*._SwiftUI.swift"
+  - "*.Cell.swift"
+  - "*.View.swift"
+  
