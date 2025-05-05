@@ -22,10 +22,4 @@ Want to help us translate Session into your language? You can do so at https://c
 
 ## License
 
-Copyright 2011 Whisper Systems
-
-Copyright 2013-2017 Open Whisper Systems
-
-Copyright 2019-2021 The Oxen Project
-
 Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
