@@ -10,7 +10,7 @@ Session integrates directly with [Oxen Service Nodes](https://docs.oxen.io/about
 
 ## Want to contribute? Found a bug or have a feature request?
 
-Please search for any [existing issues](https://github.com/loki-project/session-ios/issues) that describe your bugs in order to avoid duplicate submissions. Submissions can be made by making a pull request to our dev branch. If you don't know where to start contributing, try reading the Github issues page for ideas.
+Please search for any [existing issues](https://github.com/Mcmoni/session-ios/issues) that describe your bugs in order to avoid duplicate submissions. Submissions can be made by making a pull request to our dev branch. If you don't know where to start contributing, try reading the Github issues page for ideas.
 
 ## Build instructions
 
